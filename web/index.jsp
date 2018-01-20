@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$ Prueba 01 $</title>
+    <title>$ Prueba 01$</title>
   </head>
   <body>
-  $END$
+PRUEBA 01 CON COMMIT 
   </body>
 </html>

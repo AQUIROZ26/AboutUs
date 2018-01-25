@@ -11,6 +11,6 @@
     <title>ESTRADA</title>
 </head>
 <body>
-VAMOS POR EL 20
+VAMOS POR EL 2000000
 </body>
 </html>
